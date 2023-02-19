@@ -1,4 +1,4 @@
-<h1 align="cnenter">VSCode Plugins</h1>
+<h1 align="center">VSCode Plugins</h1>
 
 - `Atom One Dark Thmem`：颜色主题
 - `Chinese(Simplified)`：简体中文
