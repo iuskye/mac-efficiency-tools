@@ -1,5 +1,7 @@
 <h1 align="center">Mac Efficiency Tools</h1>
 
+- [VSCode 好用的插件](./VSCode_Plugins.md)
+
 ## 工作
 
 | 软件名称                 | 软件描述                | 相关链接                                                     | 推荐指数 |
