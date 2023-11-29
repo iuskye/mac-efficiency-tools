@@ -2,11 +2,14 @@
 
 - `Atom One Dark Thmem`：颜色主题
 - `Chinese(Simplified)`：简体中文
+- `Code Runner`：代码运行
+- `Code Geex`：AI 辅助代码
+- `Dev Containers`：完整体验 Docker 开发环境
 - `Docker`：使用 Docker
 - `Git Blame`：显示 Git 信息
 - `Git Graph`：Git 图形
 - `Git History`：查看文件的历史 Git Log
-- `Git Project Manager`：Git 项目管理
+- `GitLens`：预发布版免费，目前功能强大，暂时可禁用上面三个 Git 插件，如免费版不可用时再启用上述三个插件
 - `Go`：Go 官方扩展
 - `Markdown All in One`：Markdown 支持
 - `Material Icon Theme`：好看的图标
@@ -17,6 +20,6 @@
 - `Remote - SSH`：远程 SSH 连接
 - `Remote - SSH: Editing Configuratioin Files`：远程 SSH 文件配置
 - `Remote Explorer`：远程文件浏览
-- `XML`：对 xml 提供支持
+- `shellman`：
 - `YAML`：对 yaml 提供支持
 

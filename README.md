@@ -13,6 +13,7 @@
 | KeePass2                 | 密码管理软件            | [keepass.info](https://keepass.info/)                        | ★★★★     |
 | VirtualBox               | 虚拟机管理软件          | [www.virtualbox.org](https://www.virtualbox.org/)            | ★★★      |
 | Foxmail                  | 邮件客户端              | [www.foxmail.com](https://www.foxmail.com/)                  | ★★★★     |
+| Easy Dict                | 划词翻译                | [github.com/tisfeng/Easydict](https://github.com/tisfeng/Easydict) | ★★★★★    |
 
 ## 开发
 
