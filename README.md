@@ -32,12 +32,13 @@
 
 ## 效率
 
-| 软件名称   | 软件描述   | 相关链接                                              | 推荐指数 |
-| ---------- | ---------- | ----------------------------------------------------- | -------- |
-| 百度网盘   | 大文件存储 | [pan.baidu.com](https://pan.baidu.com/)               | ★★★      |
-| 阿里网盘   | 大文件存储 | [www.aliyundrive.com](https://www.aliyundrive.com/)   | ★★★★     |
-| Aliyun OSS | 图床       | [aliyun.com](https://www.aliyun.com)                  | ★★★★     |
-| Pic Go     | 图片上传   | [picgo.github.io](https://picgo.github.io/PicGo-Doc/) | ★★★      |
+| 软件名称   | 软件描述              | 相关链接                                              | 推荐指数 |
+| ---------- | --------------------- | ----------------------------------------------------- | -------- |
+| 百度网盘   | 大文件存储            | [pan.baidu.com](https://pan.baidu.com/)               | ★★★      |
+| 阿里网盘   | 大文件存储            | [www.aliyundrive.com](https://www.aliyundrive.com/)   | ★★★★     |
+| Aliyun OSS | 图床                  | [aliyun.com](https://www.aliyun.com)                  | ★★★★     |
+| Pic Go     | 图片上传              | [picgo.github.io](https://picgo.github.io/PicGo-Doc/) | ★★★      |
+| MOS        | 使 Mac 鼠标滚轮更丝滑 | [mos.caldis.me](https://mos.caldis.me/)               | ★★★★     |
 
 ## 协同
 

@@ -9,17 +9,16 @@
 - `Git Blame`：显示 Git 信息
 - `Git Graph`：Git 图形
 - `Git History`：查看文件的历史 Git Log
-- `GitLens`：预发布版免费，目前功能强大，暂时可禁用上面三个 Git 插件，如免费版不可用时再启用上述三个插件
+- `GitLens`：功能强大的 Git 工具，收费
 - `Go`：Go 官方扩展
 - `Markdown All in One`：Markdown 支持
 - `Material Icon Theme`：好看的图标
 - `Office Viewer(Markdown Editor)`：支持 Markdown 所见即所得
-- `One Dark Pro`：颜色主题
 - `Pylance`：微软官方的 Python 扩展
 - `Python`：Python 代码调试、智能补齐等
 - `Remote - SSH`：远程 SSH 连接
 - `Remote - SSH: Editing Configuratioin Files`：远程 SSH 文件配置
 - `Remote Explorer`：远程文件浏览
-- `shellman`：
+- `Shades of Purple`：颜色主体，目前正在使用的
 - `YAML`：对 yaml 提供支持
 
